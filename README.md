@@ -1,4 +1,4 @@
-Soy un desarrollador BackEnd actodidacta.
+La orquestación de contenedores con Kubernetes es una de mis áreas favoritas en DevOps, ya que facilita la gestión y escalabilidad de aplicaciones en entornos de producción.
 
 **Sobre Mí**
 
